@@ -27,12 +27,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\infile.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-    <Text Include="..\outfile.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
 </Project>
